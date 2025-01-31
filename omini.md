@@ -72,10 +72,6 @@ Run the following command inside your project directory:
 ```powershell
 docker-compose up -d --build
 
-
-### **Step 2: Verify Running Containers**
-Check if your container is running:
-```powershell
 docker ps
 ```
 You should see your **React app container** running.
