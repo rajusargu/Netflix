@@ -1,4 +1,4 @@
-# Deploying React App on Windows Server using Docker & Docker Compose
+# Deploying  Omniscient React App on Windows Server using Docker & Docker Compose
 
 ## **1. Install Docker on Windows Server**
 
